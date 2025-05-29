@@ -23,8 +23,6 @@ Currently, I'm working on sharpening my skills in backend development, cloud com
 
 ## 📫 Let's Connect!
 - 🔗 **GitHub:** [github.com/MaciPatrona](https://github.com/MaciPatrona)
-- 💼 **LinkedIn:** [Your LinkedIn Here]
-- 📧 **Email:** [Your Email Here]
-
-💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+- 💼 **LinkedIn:** 
+- 📧 **Email:** 
 
